@@ -15,7 +15,7 @@ A classic Tic Tac Toe game built with React and Tailwind CSS.
 - Vite
 
 ## Play Online
-[Add Netlify link here after deploying]
+https://sheyon-clasic-tic-tac-toe.netlify.app/
 
 ## Run Locally
 ```bash
